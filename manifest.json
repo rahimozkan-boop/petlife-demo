@@ -1,9 +1,1 @@
-{
-  "name": "PETLIFE",
-  "short_name": "PETLIFE",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#F7F9FC",
-  "theme_color": "#1ABC9C",
-  "lang": "tr"
-}
+{"name":"PetLife Akhisar","short_name":"PetLife","start_url":".","display":"standalone","background_color":"#f7faf8","theme_color":"#0f7a4a","description":"Akhisar içi yerel pet shop ve hızlı teslimat","icons":[]}
